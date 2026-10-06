@@ -31,10 +31,6 @@ product rankings.
   **YTD Products Sold**          **27.75K**
   **YTD Reviews**                **19.42M**
 
-> **Note:** The review KPI represents review-count values recorded in
-> the source dataset and should not automatically be interpreted as
-> 19.42M unique customer reviews.
-
 ## Key Insights
 
 ### 1. Men Shoes Is the Largest Revenue Contributor
@@ -228,7 +224,7 @@ Amazon-Sales-Analysis-PowerBI/
     └── dashboard.png
 ```
 
-To display your dashboard screenshot:
+To display dashboard screenshot:
 
 ``` markdown
 ![Amazon Sales Analysis Dashboard](Images/dashboard.png)
